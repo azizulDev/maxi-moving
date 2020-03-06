@@ -1,0 +1,100 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 09/01/2020 06:21
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-bbb-better-business-bureau-logo-with-a-flame:before { content: "\f100"; }
+.flaticon-yelp:before { content: "\f101"; }
+.flaticon-facebook:before { content: "\f102"; }
+.flaticon-instagram-logo:before { content: "\f103"; }
+.flaticon-twitter:before { content: "\f104"; }
+.flaticon-telephone:before { content: "\f105"; }
+.flaticon-black-back-closed-envelope-shape:before { content: "\f106"; }
+.flaticon-home-address:before { content: "\f107"; }
+.flaticon-move:before { content: "\f108"; }
+.flaticon-destination:before { content: "\f109"; }
+.flaticon-man-climbing-stairs:before { content: "\f10a"; }
+.flaticon-size:before { content: "\f10b"; }
+.flaticon-calendar:before { content: "\f10c"; }
+.flaticon-moving:before { content: "\f10d"; }
+.flaticon-moving-truck:before { content: "\f10e"; }
+.flaticon-residential:before { content: "\f10f"; }
+.flaticon-building:before { content: "\f110"; }
+.flaticon-winch:before { content: "\f111"; }
+.flaticon-piano:before { content: "\f112"; }
+.flaticon-demolishing:before { content: "\f113"; }
+.flaticon-package:before { content: "\f114"; }
+.flaticon-crate:before { content: "\f115"; }
+.flaticon-trophy:before { content: "\f116"; }
+.flaticon-graph:before { content: "\f117"; }
+.flaticon-smile:before { content: "\f118"; }
+.flaticon-ok-mark:before { content: "\f119"; }
+.flaticon-star:before { content: "\f11a"; }
+.flaticon-left-quote:before { content: "\f11b"; }
+.flaticon-right-quote-sign:before { content: "\f11c"; }
+.flaticon-pin:before { content: "\f11d"; }
+    
+    $font-Flaticon-bbb-better-business-bureau-logo-with-a-flame: "\f100";
+    $font-Flaticon-yelp: "\f101";
+    $font-Flaticon-facebook: "\f102";
+    $font-Flaticon-instagram-logo: "\f103";
+    $font-Flaticon-twitter: "\f104";
+    $font-Flaticon-telephone: "\f105";
+    $font-Flaticon-black-back-closed-envelope-shape: "\f106";
+    $font-Flaticon-home-address: "\f107";
+    $font-Flaticon-move: "\f108";
+    $font-Flaticon-destination: "\f109";
+    $font-Flaticon-man-climbing-stairs: "\f10a";
+    $font-Flaticon-size: "\f10b";
+    $font-Flaticon-calendar: "\f10c";
+    $font-Flaticon-moving: "\f10d";
+    $font-Flaticon-moving-truck: "\f10e";
+    $font-Flaticon-residential: "\f10f";
+    $font-Flaticon-building: "\f110";
+    $font-Flaticon-winch: "\f111";
+    $font-Flaticon-piano: "\f112";
+    $font-Flaticon-demolishing: "\f113";
+    $font-Flaticon-package: "\f114";
+    $font-Flaticon-crate: "\f115";
+    $font-Flaticon-trophy: "\f116";
+    $font-Flaticon-graph: "\f117";
+    $font-Flaticon-smile: "\f118";
+    $font-Flaticon-ok-mark: "\f119";
+    $font-Flaticon-star: "\f11a";
+    $font-Flaticon-left-quote: "\f11b";
+    $font-Flaticon-right-quote-sign: "\f11c";
+    $font-Flaticon-pin: "\f11d";
